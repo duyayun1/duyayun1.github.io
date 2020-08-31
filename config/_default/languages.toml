@@ -20,34 +20,33 @@
     weight = 1
 
   [[zh.menu.main]]
-    name = "研究"
-    url = "#research"
+    name = "技能"
+    url = "#skills"
     weight = 21
 
   [[zh.menu.main]]
-    name = "教育背景"
+    name = "教育"
     url = "#eduaction"
     weight = 31
 
   [[zh.menu.main]]
-    name = "教学"
-    url = "#teaching"
+    name = "实习经验"
+    url = "#experience"
     weight = 40
 
   [[zh.menu.main]]
-    name = "经历"
-    url = "#experience"
+    name = "项目"
+    url = "#projects"
     weight = 50
 
   [[zh.menu.main]]
     name = "博客"
     url = "http://data2art.com"
-    #weight = 51
-    weight = 60
+    weight = 51
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[zh.menu.main]]
       name = "简历"
-      url = "files/YayunDu_Resume.pdf"
+      url = "files/YouXinyu_Resume.pdf"
       weight = 70

@@ -1,9 +1,9 @@
 +++
-title = "Study on inspection of the initial rotor position of BLDC based on high-frequency signal injection"
+title = "Analyzing Student Behavior in Online Programming Courses"
 date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["D. Wang", "C. Zhou","M. Zou","J. Liao","Yayun Du"]
+authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,14 +18,14 @@ authors = ["D. Wang", "C. Zhou","M. Zou","J. Liao","Yayun Du"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific*"
-publication_short = "In *ITEC Asia-Pacific*"
+publication = "In *Source Themes Conference*"
+publication_short = "In *STC*"
 
 # Abstract.
 #abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
 
 # Summary. An optional shortened abstract.
-summary = "2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific)"
+summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["So"]
+tags = ["Source Themes"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ tags = ["So"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = [""]
+projects = ["internal-project"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

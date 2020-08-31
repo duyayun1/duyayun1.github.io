@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 61  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,61 +18,54 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "Structure and Computer Interaction Lab, UCLA"
-  company_url = "https://structures.computer/"
+  title = "Google Summer of Code 2019"
+  company = "Participant in Red Hen Lab"
+  company_url = "https://summerofcode.withgoogle.com"
   location = "Remote"
-  date_start = "2018-04"
-  date_end = "Now"
+  date_start = "2019-05-09"
+  date_end = "2019-08-15"
   description = """
-  Design and control a weed-control agricultural robot, soft robots and write simulators to understand the dynamics 
+  Design and develop an online deep learning course for humanists
   
-  * Advisor: Khalid M. Jawed
+  - 7,555 applications submitted by 31,000 registered participants, only 1,276 (4.1%) were accepted
+  - Mentor: Francis Steen, Mark Turner and Rajesh Kasturirangan
+  - Repo: https://github.com/yogayu/deepLearningCourse
   """
 
 [[experience]]
-  title = "Undergraduate Researcher"
-  company = "Battery Electric Vehicle Lab, HIT (Weihai)"
-  location = "Weihai, China"
-  date_start = "2014-09"
-  date_end = "2016-06"
+  title = "Baidu Inc."
+  company = "Research and Development Engineer Intern"
+  company_url = "https://en.wikipedia.org/wiki/Baidu"
+  location = "Beijing, China"
+  date_start = "2017-04-30"
+  date_end = "2016-12-01"
   description = """
-  - Implemented a motor-distributed system collaborating with the senior Ph.D. student and controlled it using the sliding mode control 
+  - Implemented and fixed iOS client video module related functions: video release page, live display page, video player and data log, etc
+  - Optimized and developed automatic page refresh strategy and page preload list data strategy to effectively improve user experience
   """
 
 [[experience]]
-  title = "Lab for freescale competition"
-  location = "Weihai, China"
-  date_start = "2014-12"
-  date_end = "2015-06"
+  title = "Douban Inc."
+  company = "iOS Software Engineer Intern"
+  company_url = "https://www.douban.com/"
+  location = "Beijing, China"
+  date_start = "2016-07-01"
+  date_end = "2016-11-30"
   description = """
-  - Built a freescale car based on MCS 51 and controlled it using C language to follow a deployed black line
-  - Designed PCB boards using Altium Designer, welded and debugged the PCB
+  - [Participated in the douban summer camp](http://data2art.com/douban-intern.html) and shared the experience from entry to the first App on the shelves
+  - Investigated iOS hotfix tools such as JSPatch, waxPatch and Rollout, and created JSPatch hotfix Demo
+  - Developed record page related requirements: customized list display, favorites, album details, comments, etc
+  - Optimized and fixed the iPad version App: redesigned the overall UI framework, adapt 10+ page layout and interaction
   """
-[[experience]]
-  title = "Engineering Assistant Intern"
-  company = "FAW Jiefang Automotive Co., Ltd."
-  company_url = "https://www.fawjiefang.com.cn/"
-  location = "Changchun, China"
-  date_start = "2016-01"
-  date_end = "2016-03"
-"""
 
-[[experience]]
-  title = "Engineering Assistant Intern"
-  company = "Zhengzhou Nissan Motor Company"
-  location = "Zhengzhou, China"
-  date_start = "2014-01"
-  date_end = "2014-03"
-"""
 #[[experience]]
-  title = "Yuan * Meng Tibet Teaching Volunteer Team Main Creator"
-  company = "Harbin Institute Techonology"
+#  title = "Pulse App"
+#  company = "iOS Independent Developer"
 #  company_url = "http://pulse.data2art.com/"
-  location = "Tibet"
-  date_start = "2013-06"
-  date_end = "2013-09"
-  description = """Team creator and leader of the first volunteer team at HIT to teach in Tibet"""
-# Pulse is a clean and beautiful Metronome. Independently complete the whole process from idea, design, coding, propaganda to the shelf.
+#  location = ""
+#  date_start = "2016-05-01"
+#  date_end = "2016-11-01"
+#  description = """
+#Pulse is a clean and beautiful Metronome. Independently complete the whole process from idea, design, coding, propaganda to the shelf.
 #  """
 +++
