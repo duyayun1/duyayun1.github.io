@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, California, US"
   date_start = "2016-09-01"
   date_end = "2018-03-01"
-  description = """
-  
-  <!-- * Postgraduate recommendation
-  * Outstanding freshman scholarship
-  * Lab: National Laboratory for Parallel and Distributed Processing (PDL) -->
-  """ -->
+  description = """ """ 
 
 [[experience]]
   title = "Harbin Institute of Technology"
