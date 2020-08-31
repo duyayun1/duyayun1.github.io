@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = "Coursera"
-  organization_url = ""
+  #organization_url = ""
   title = "UCLA Undergraduate Student Research Program (SRP) 199"
   url = ""
   date_start = "2020-07"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = "Coursera"
-  organization_url = ""
+  #organization_url = ""
   title = "UCLA Undergraduate Student Research Program (SRP) 199"
   url = ""
   #certificate_url = "https://www.coursera.org"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = ""
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "UCLA Undergraduate Student Research Program (SRP) 199"
   url = ""
   #certificate_url = ""
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = ""
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "Teaching Associate for ECE 205A Matrix Analysis for Scientists and Engineers (Graduate)"
   url = ""
   #certificate_url = ""
@@ -80,7 +80,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = ""
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "Teaching Assistant for M20 Introduction to Computer Programming with MATLAB (Undergraduate)"
   url = ""
   #certificate_url = ""
@@ -90,7 +90,7 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = ""
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "Teaching Assistant for Physics 5C Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics
 Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Undergraduate)"
   url = ""
@@ -101,7 +101,7 @@ Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Sp
 
   [[item]]
   #organization = ""
-  organization_url = "https://www.edx.org"
+  #organization_url = "https://www.edx.org"
   title = "Teaching Assistant for Psychology 120B Sensation & Perception (Undergraduate)"
   url = ""
   #certificate_url = ""
