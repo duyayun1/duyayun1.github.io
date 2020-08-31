@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   location = "Changchun, China"
   date_start = "2016-01"
   date_end = "2016-03"
-"""
+  description = """ """
 
 [[experience]]
   title = "Engineering Assistant Intern"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   location = "Zhengzhou, China"
   date_start = "2014-01"
   date_end = "2014-03"
-"""
+  description = """ """
 #[[experience]]
   title = "Yuan * Meng Tibet Teaching Volunteer Team Main Creator"
   company = "Harbin Institute Techonology"
