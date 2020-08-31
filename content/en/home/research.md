@@ -29,7 +29,7 @@ subtitle = ""
     tag = "AI"
 
   [[content.filter_button]]
-    name = “Soft robot design & Simulation"
+    name = "Soft robot design & Simulation"
     tag = "Soft robot design & Simulation"
   
   #[[content.filter_button]]
