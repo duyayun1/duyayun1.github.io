@@ -22,13 +22,13 @@ bio = "Where there is a will, there is a way."
 email = "duyayun1hit@yahoo.com.hk"
 
 # List (academic) interests or hobbies
-#interests = [
-#  "Robot design and control",
-#  "Artificial intelligence",
-#  "Deep learning",
-#  "Computer vision",
-#  "Mechanics"
-#]
+interests = [
+  "Robot design and control",
+  "Artificial intelligence",
+  "Deep learning",
+  "Computer vision",
+  "Mechanics"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -58,7 +58,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/duyayun1"
+  link = "https://github.com/duyayun"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
