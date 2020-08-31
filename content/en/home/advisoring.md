@@ -91,8 +91,7 @@ date_format = "Jan 2006"
 [[item]]
   #organization = ""
   #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for Physics 5C Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics
-Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Undergraduate)"
+  title = "Teaching Assistant for Physics 5C Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Undergraduate)"
   url = ""
   #certificate_url = ""
   date_start = "2018-03"
