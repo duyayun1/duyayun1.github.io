@@ -26,7 +26,7 @@
 
   [[zh.menu.main]]
     name = "教育背景"
-    url = "#eduaction"
+    url = "#education"
     weight = 31
 
   [[zh.menu.main]]
