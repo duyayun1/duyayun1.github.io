@@ -15,7 +15,7 @@ Designed a compliant roller and implemented passive impedance control with visio
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["vision", "autonomous-coating", "robot", "force-control", "impedance-control"]
+tags = ["Robotic arm control"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/Yogayu/weibo-summary"
