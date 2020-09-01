@@ -14,7 +14,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Soft robot design & Simulation"]
+tags = ["Soft robot design \& Simulation"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://data2art.com"
