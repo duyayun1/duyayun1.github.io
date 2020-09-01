@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2020-08-30T11:34:00
+date = "2020-08-30"
 layout = "project"
 
 # Project title.
