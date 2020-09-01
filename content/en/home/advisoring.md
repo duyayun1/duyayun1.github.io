@@ -18,94 +18,62 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
 [[item]]
   #organization = "Coursera"
-  #organization_url = ""
-  title = "UCLA Undergraduate Student Research Program (SRP) 199"
-  url = ""
-  date_start = "2020-07"
-  date_end = "Now"
-  description = "Algorithms for autonomous weed control"
-
-[[item]]
-  #organization = "Coursera"
-  #organization_url = ""
-  title = "UCLA Undergraduate Student Research Program (SRP) 199"
+  organization_url = "https://www.coursera.org"
+  title = "1st prize in Hunan Province | AIIA cup Artificial Intelligence tour Sophon station "
   url = ""
   #certificate_url = "https://www.coursera.org"
-  date_start = "2019-04"
-  date_end = "Now"
-  description = "Bacteria-inspired flagellated robot turn by buckling soft tails"
+  date_start = "2019-09-17"
+  date_end = ""
+  description = ""
 
+[[item]]
+  #organization = "Coursera"
+  organization_url = ""
+  title = "Top 8 (30+ teams) | Best maker project of Huazhong HackFun maker marathon"
+  url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  #organization = "Coursera"
+  organization_url = ""
+  title = "Top 1.5% | Excellent undergraduate graduation project of CQU"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  #organization = ""
+  organization_url = "https://www.edx.org"
+  title = "Top 10% of 6,000 teams | Second price in National Computer Design Competition"
+  url = ""
+  #certificate_url = ""
+  date_start = "2016-08-15"
+  date_end = ""
+  description = ""
+  
 [[item]]
   #organization = "DataCamp"
   #organization_url = "https://www.datacamp.com"
-  title = "UCLA Undergraduate Student Research Program (SRP) 199"
+  title = "First Price in Smart Campus application competition of CQU"
   url = ""
   #certificate_url = "https://www.datacamp.com"
-  date_start = "2019-03"
-  date_end = "2019-08"
-  description = "Collaborative robotic drawing simulation in Vrep with constant force"
-
+  date_start = "2015-05-10"
+  date_end = ""
+  description = ""
 [[item]]
   #organization = "DataCamp"
   #organization_url = "https://www.datacamp.com"
-  title = "UCLA Undergraduate Student Research Program (SRP) 99"
+  title = "Third price in IBM Master the Mainframe Global Contest"
   url = ""
   #certificate_url = "https://www.datacamp.com"
-  date_start = "2019-01"
-  date_end = "2019-09"
-  description = "2D movement control of soft robots in low Reynolds number of fluid"
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "UCLA Undergraduate Student Research Program (SRP) 199"
-  url = ""
-  #certificate_url = ""
-  date_start = "2018-04"
-  date_end = "2019-03"
-  description = "Bacteria-inspired soft robot capable of traveling through granular media"
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Associate for ECE 205A Matrix Analysis for Scientists and Engineers (Graduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09"
-  date_end = "2020-09"
-  description = "Student evaluation: 8.0/9.0"  
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for M20 Introduction to Computer Programming with MATLAB (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09"
-  date_end = "2019-09"
-  description = "Student evaluation: 7.7/9.0" 
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for Physics 5C Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2018-03"
-  date_end = "2018-06"
-  description = "Student evaluation: 8.0/9.0" 
-
-  [[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for Psychology 120B Sensation & Perception (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09"
-  date_end = "2017-09"
-  description = "Student evaluation: 8.0/9.0" 
+  date_start = "2015-05-20"
+  date_end = ""
+  description = ""
 
 +++
