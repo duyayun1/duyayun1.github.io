@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://structures.computer/"
   location = "Remote"
   date_start = "2018-04-01"
-  date_end = "Now"
+  date_end = ""
   description = """
   Design and control a weed-control agricultural robot, soft robots and write simulators to understand the dynamics 
   
