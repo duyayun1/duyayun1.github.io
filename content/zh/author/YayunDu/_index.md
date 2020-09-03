@@ -1,25 +1,25 @@
 +++
 # Display name
-name = "游薪渝"
+name = "杜亚云"
 
 # Username (this should match the folder name)
-authors = ["XinyuYou"]
+authors = ["YayunDu"]
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Postgraduate Student of Computer Science"
+role = "Ph.D. student in Robotics and Control"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "National University of Defense Technology", url = "" } ]
+#organizations = [ { name = "University of California, Los Angeles", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "去创造，去体验"
+bio = "有志者，事竟成"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "youxinyu07@gmail.com"
+email = "duyayun1hit@yahoo.com.hk"
 
 # List (academic) interests or hobbies
 #interests = [
@@ -50,27 +50,27 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:youxinyu07@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:duyayun1hit@yahoo.com.hk"  # For a direct email link, use "mailto:test@example.org".
+
+# [[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/yxydiscovery"
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/yxydiscovery"
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
-  icon = "blogger-b"
-  icon_pack = "fab"
-  link = "http://data2art.com"
+# [[social]]
+ # icon = "blogger-b"
+ # icon_pack = "fab"
+ # link = "http://data2art.com"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/yogayu"
+  link = "https://github.com/duyayun"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,19 +80,12 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-你好哇，我是游薪渝，目前在国防科大读研，是一个软件工程师和成长中的数据科学家。人生格言是：去创造，去体验。
+你好，我是杜亚云，目前在加州大学（洛杉矶）攻读博士学位，我的专业是机器人和控制专业。人生格言是：有志者，事竟成。
 
-与计算机结缘要从小学玩星际争霸说起，那时候的电脑还是大个头，机房还是需要穿鞋套才能进入的微机室。
-
-高中时接触智能手机，被这个小小长方形盒子吸引。凭着兴趣，选择了软件工程专业。因为很享受动手将自己的想法一点点实现的过程，大学时开始做iOS开发，完成了自己的独立应用，后来也很幸运的去到公司实习iOS开发。
-
-现在人工智能的浪潮来袭。简单说来，传统软件，大部分都是逻辑编码，每一步怎么做，最后如果判断，都靠人写命令告诉它。清晰，简明，优雅。
-
-而人工智能，给与机器一定的自我学习能力。从数据中学习，就像人类擅长的那样，从错误中吸取经验，不断迭代，降低犯错的概率。数据科学，给与我们新的洞察力。不也很好玩吗？
 
 最近我在做什么？
 
-- 完成 GSoC 2019 我将完成一门面向人文主义者的深度学习实践课程。
+- 正在研究一些算法使机器人在没有GPS的情况下在田地里定位。
 - 和我的队友们一起愉快的参加一个算法比赛。
 - 正在完成一个神秘的 iOS APP。
 
