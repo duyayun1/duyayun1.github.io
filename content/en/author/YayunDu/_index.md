@@ -13,7 +13,7 @@ role = "Ph.D. Student in Robotics and Control, Mechanics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "University of California, Los Angeles", url = "" } ]
+organizations = [ { name = "Structures-Computer Interaction Lab, UCLA", url = "https://structures.computer/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Where there is a will, there is a way."
@@ -26,6 +26,7 @@ interests = [
   "Robot design and control",
   "Artificial intelligence",
   "Deep learning",
+  "Reinforcement learning",
   "Computer vision",
   "Mechanics"
 ]
@@ -56,6 +57,11 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:duyayun1hit@yahoo.com.hk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/duyayun"
@@ -66,25 +72,23 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://www.linkedin.com/in/yayun-du/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+   icon_pack = "ai"
+   link = "files/YayunDu_Resume.pdf"
 
 +++
 
 Hello, welcome to the website of Yayun(Daisy) Du. I am a Ph.D. student in Robotics and Control with a minor in solid mechanics at UCLA. 
-Born and raised in a rural village in China, and my parents are farmers, I've been dreaming about freeing labor. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design inlcuded), control, artificial intelligence, deep learning, and mechanics analysis.
-With extraordinary leadership, I have been leading several projects since I started my Ph.D.. I fulfilled the autonomous robotic painting with rollers and made it possible for the robot to paint as well as human hand painting using constant force through passive impedance control. The work got accepted by IROS. I also developed a low-cost compact autonomous agriculture robot to realize weed control in plants with the path width as narrow as one foot. The final goal is to enable it to continue to work robustly in the fields for several weeks with autonomous recharging without human intervention. 
-
-Apart from rigid robots, I am also interested in bio-inspired soft robots. Inspired by bacteria, I built flagellated robot prototypes that can swim in both granular medium and low Reynolds number fluid as well as a starfish robot that can swim in the water and wrote my own C++ simulator to simulate their movements faster than real time based on the Discrete Elastic Rods (DER) theory.
+Born and raised in a rural village in China with my parents being farmers, I've been dreaming about freeing labor. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design inlcuded), control, artificial intelligence, deep learning, reinforcement learning and mechanics analysis.
+With extraordinary leadership, I have been leading several projects since I started my Ph.D.. In my doctoral research, I have been working on several projects and collaborating with multiple groups. First, I designed a simple robot with soft straight tails able to swim in granular media, and experimental data showed reasonable quantitative agreement with numerical simulation results. Then, using the same robot, I studied its locomotion in fluids and enabled the robot to follow any prescribed 2D trajectory. Meanwhile, I’ve built a low-cost agri-robot with autonomous recharge, navigation, and weed detection (with deep learning) in flax fields, and I’ve been connecting with plant science researchers from NDSU to test our robot. Based on the agri-robot, I gathered preliminary data for a successful $450k federal grant from the US Dept. of Agriculture and also prepared 33% of an NSF proposal with four PIs ($1.2M) that received ratings of 3 Very Good, and 1 Fair (eventually declined). I also collaborated with another NDSU painting group on autonomous robotic painting. 
 
 ---
 What I am doing Now?
 
-- Finish developing algorithms that allow the robot to locate itself in the fields without GPS using visual odometry in conjunction with IMU and motor encoders;
+- Finish developing algorithms that allow the robot to locate itself in the fields without GPS using visual odometry in conjunction with IMU, LiDAR, and wheel encoders;
 - Make the self-recharging function of the agricultural robot more robust;
-- Polish the adaptive weight distribution of the bacteria-inspired robot with the aim of verifying the bacterium's ability to turn by flagella buckling;
+- Polish the adaptive weight distribution of the bacteria-inspired robot with the aim of verifying the bacterium's ability to turn by flagella buckling and add cameras to make the robot fully autonomous and use reinforcement learning to study optimal motion planning among multi-agent (multi-robots).
 - In the tenure-track faculty job hunt.
 
 Update 08/25/2020
