@@ -9,8 +9,8 @@ title = "Vision and force based autonomous coating with rollers"
 # Project summary to display on homepage.
 summary = """
 Designed a compliant roller and implemented passive impedance control with vision that allows robots to realize human-level performance<br>
-1). Proposed a framework enabling a robot with only position control to recognize the shape of 3D objects, and plan the coating trajectory autonomously<br>
-2). Used bare minimum ingredients to realize constant-force coating with a compliant roller, in conjunction with a cheap ultrasonic sensor<br>
+1). Proposed a framework enabling a robot with only position control to recognize the shape of 3D objects, and plan the coating trajectory autonomously;<br>
+2). Used bare minimum ingredients to realize constant-force coating with a compliant roller, in conjunction with a cheap ultrasonic sensor.<br>
 """
 
 # Tags: can be used for filtering projects.
