@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-07-01"
   date_end = ""
-  description = "Algorithms for autonomous weed control"
+  description = "Wenjie Mo, Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang, Low-cost autonomous agricultural robot for weed control"
 
 [[item]]
   #organization = "Coursera"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   date_start = "2019-04-01"
   date_end = ""
-  description = "Bacteria-inspired flagellated robot turn by buckling soft tails"
+  description = "Andrew Miller, Arthur Lovekin, Biolocomotion--Bacteria-inspired flagellated robot turn by buckling soft tails"
 
 [[item]]
   #organization = "DataCamp"
@@ -46,7 +46,17 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.datacamp.com"
   date_start = "2019-03-01"
   date_end = "2019-08-01"
-  description = "Collaborative robotic drawing simulation in Vrep with constant force"
+  description = "Taiki Nagata, Collaborative robotic drawing simulation in Vrep with constant force"
+
+[[item]]
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "UCLA Undergraduate Student Research Program (SRP) 99"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2019-04-15"
+  date_end = "2019-06-01"
+  description = "Zihang Zhao, Visiting Summer Intern, Build a compact agriculture robot for weed control"
 
 [[item]]
   #organization = "DataCamp"
@@ -56,7 +66,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.datacamp.com"
   date_start = "2019-01-01"
   date_end = "2019-09-01"
-  description = "2D movement control of soft robots in low Reynolds number of fluid"
+  description = "Karunesh Schanandani, Jacqueline Lam, 2D movement control of soft robots in low Reynolds number of fluid"
 
 [[item]]
   #organization = ""
@@ -66,7 +76,7 @@ date_format = "Jan 2006"
   #certificate_url = ""
   date_start = "2018-04-01"
   date_end = "2019-03-01"
-  description = "Bacteria-inspired soft robot capable of traveling through granular media"
+  description = "Keerthi Pradaa Balajee, Bacteria-inspired soft robot capable of traveling through granular media"
 
 [[item]]
   #organization = ""
@@ -85,8 +95,8 @@ date_format = "Jan 2006"
   url = ""
   #certificate_url = ""
   date_start = "2017-09-01"
-  date_end = "2019-09-01"
-  description = "Student evaluation: 7.7/9.0" 
+  date_end = "2020-09-01"
+  description = "Student evaluation: 8.0/9.0" 
 
 [[item]]
   #organization = ""
