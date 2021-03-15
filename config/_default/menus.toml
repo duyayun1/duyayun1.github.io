@@ -24,7 +24,7 @@
   weight = 41
 
 [[main]]
-  name = "Advisoring"
+  name = "Mentoring"
   url = "#advisoring"
   weight = 51
 
@@ -36,7 +36,7 @@
 
 [[main]]
   name = "Blog"
-  url = "http://data2art.com"
+  url = "https://wordpress.com/view/daisyshearthome.wordpress.com"
   weight = 71
 
 # Link to a PDF of your resume/CV from the menu.
