@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  Design and control a weed-control agricultural robot, soft robots and write simulators to understand the dynamics 
-  
+  Design and control simplt but functional soft flagellated robots inspired by bacteria and write discrete differential geometry-based simulators to understand the dynamics; develop an autonomous weed-control agricultural robot
+  """
   * Advisor: Khalid M. Jawed
   
 [[experience]]
