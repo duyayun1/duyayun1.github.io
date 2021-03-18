@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 61  # Order that this section will appear.
+weight = 71  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Structure and Computer Interaction Lab, UCLA"
   company_url = "https://structures.computer/"
-  location = "Remote"
+  location = "Engineering IV, Rm 15-155"
   date_start = "2018-04-01"
   date_end = ""
   description = """
@@ -32,5 +32,47 @@ date_format = "Jan 2006"
   Dir 2: Design and control an autonomous weed-control agricultural robot
   * Advisor: Khalid M. Jawed
   """
+[[experience]]
+  title = "Research Assistant"
+  company = "Biomechatronics Laboratory, UCLA"
+  company_url = "https://uclabiomechatronics.wordpress.com/"
+  location = "Engineering IV, Rm 37-138"
+  date_start = "2017-04-01"
+  date_end = ""
+  description = """
+  Build the fluid and structure interaction (FSI) model of BioTac tactile sensor.
+  * Advisor: Veronica Santos
+  """
 
+  [[experience]]
+  title = "Research Assistant"
+  company = "New Energy Vehicle Research Institute, Harbin Institue of Tech (HIT)"
+  company_url = ""
+  location = "Songjian Yan Jiu Yuan, Weihai, China"
+  date_start = "2014-09-01"
+  date_end = ""
+  description = """
+  Perform research on distributed vehicle system control on alternative fuel vehicles.
+  * Advisor: Dafang Wang
+  """
+
+   [[experience]]
+  title = "Engineering Assistant Intern"
+  company = "FAW Jiefang Automotive Co., Ltd."
+  company_url = ""
+  location = "Changchun, China"
+  date_start = "2016-01-16"
+  date_end = "2016-03-16"
+  description = """
+  """
+
+  [[experience]]
+  title = "Engineering Assistant Intern"
+  company = "Zhengzhou Nissan Motor Company"
+  company_url = ""
+  location = "Zhengzhou, China"
+  date_start = "2014-01-16"
+  date_end = "2014-03-16"
+  description = """
+  """
 +++

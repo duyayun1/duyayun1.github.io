@@ -18,14 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
+  title = "Ph.D. Research Assistant"
   company = "Structure and Computer Interaction Lab, UCLA"
   company_url = "https://structures.computer/"
   location = ""
   date_start = "2018-04-01"
   date_end = ""
   description = """
-  * Design and control simplt but functional soft flagellated robots inspired by bacteria and write discrete differential geometry-based simulators to understand the dynamics; develop an autonomous weed-control agricultural robot
+  * Design and control simplt but functional soft flagellated robots inspired by bacteria and write discrete differential geometry-based simulators to understand the dynamics
+  * Develop an autonomous weed-control agricultural robot
 
   Advisor: Khalid M. Jawed
   """

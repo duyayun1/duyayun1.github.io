@@ -29,22 +29,27 @@
   weight = 51
 
 [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 61
+
+[[main]]
   name = "Experience"
   url = "#experience"
-  weight = 61
+  weight = 71
 
 
 [[main]]
   name = "Blog"
   url = "https://wordpress.com/view/daisyshearthome.wordpress.com"
-  weight = 71
+  weight = 81
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "Resume"
     url = "files/YayunDu_Resume.pdf"
-    weight = 81
+    weight = 91
 
 [[main]]
   name = "中文"

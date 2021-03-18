@@ -57,8 +57,8 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:duyayun1hit@yahoo.com.hk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
+  icon = "google-scholar"
+  icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=LPwbf4kAAAAJ&hl=en"
 
 [[social]]
@@ -91,4 +91,4 @@ What I am doing Now?
 - Polish the adaptive weight distribution of the bacteria-inspired robot with the aim of verifying the bacterium's ability to turn by flagella buckling and add cameras to make the robot fully autonomous to follow any 3D trajectory and use reinforcement learning to study optimal motion planning among multi-agent (multi-robots).
 - In the tenure-track faculty job hunt.
 
-Update 08/25/2020
+Update 03/18/2021
