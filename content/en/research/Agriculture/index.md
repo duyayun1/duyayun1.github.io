@@ -20,5 +20,5 @@ summary = """
 tags = ["vision", "AI", "deep-learning", "agriculture"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.youtube.com/watch?v=QjwI7DM3CIg"
+external_link = "https://www.youtube.com/watch?v=QjwI7DM3CIg, https://www.youtube.com/watch?v=ci66YtdtfQk"
 +++
