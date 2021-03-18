@@ -21,13 +21,13 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Structure and Computer Interaction Lab, UCLA"
   company_url = "https://structures.computer/"
-  location = "Remote"
+  location = ""
   date_start = "2018-04-01"
   date_end = ""
   description = """
   * Design and control simplt but functional soft flagellated robots inspired by bacteria and write discrete differential geometry-based simulators to understand the dynamics; develop an autonomous weed-control agricultural robot
 
-  * Advisor: Khalid M. Jawed
+  Advisor: Khalid M. Jawed
   """
   
 [[experience]]
