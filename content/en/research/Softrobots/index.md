@@ -17,5 +17,6 @@ summary = """
 tags = ["Soft robots"]
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "http://data2art.com"
+external_link = "https://www.youtube.com/watch?v=c-XRC57cA90"
+external_link = "https://www.youtube.com/watch?v=hppBMe-cEvk"
 +++
