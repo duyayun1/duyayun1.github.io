@@ -3,7 +3,7 @@ title = "Study on inspection of the initial rotor position of BLDC based on high
 date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["D. Wang", "C. Zhou","M. Zou","J. Liao","Yayun Du"]
+authors = ["D. Wang", "C. Zhou", "M. Zou", "J. Liao", "Yayun Du"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
