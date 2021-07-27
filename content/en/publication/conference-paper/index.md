@@ -1,6 +1,6 @@
 +++
 title = "Study on inspection of the initial rotor position of BLDC based on high-frequency signal injection"
-date = 2014-05T00:00:00
+date = 2014-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["D. Wang", "C. Zhou", "M. Zou", "J. Liao", "Yayun Du"]
