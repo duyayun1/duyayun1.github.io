@@ -49,11 +49,11 @@ date_format = "Jan 2006"
   date_end = "2016-06-30"
   description = """
 
-#  * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%)
-#  * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
-#  * 2015      Outstanding Leader Award from Harbin Institute of Technology (Top 2%)
-#  * 2014      Best-organized Volunteer Team Leader from Harbin Institute of Technology, Weihai
-#  * 2013      First Prize in National English Competition for College Students (Top 1%)
-#  * 2013      Most Creative Award from Department of Automotive Engineering for the design of pressure oil pump (1/10 teams)
+#  2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%)
+#  2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
+#  2015      Outstanding Leader Award from Harbin Institute of Technology (Top 2%)
+#  2014      Best-organized Volunteer Team Leader from Harbin Institute of Technology, Weihai
+#  2013      First Prize in National English Competition for College Students (Top 1%)
+#  2013      Most Creative Award from Department of Automotive Engineering for the design of pressure oil pump (1/10 teams)
   """
 +++
