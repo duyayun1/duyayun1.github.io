@@ -24,24 +24,23 @@
   weight = 41
 
 [[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 51
+  
+[[main]]
   name = "Mentoring"
   url = "#advisoring"
-  weight = 51
+  weight = 61
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 61
+  weight = 71
 
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 71
-
-
-[[main]]
-  name = "Blog"
-  url = "https://wordpress.com/view/daisyshearthome.wordpress.com"
   weight = 81
 
 # Link to a PDF of your resume/CV from the menu.
