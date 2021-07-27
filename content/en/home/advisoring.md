@@ -77,45 +77,4 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
   description = "Keerthi Pradaa Balajee, Bacteria-inspired soft robot capable of traveling through granular media"
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Associate for ECE 205A Matrix Analysis for Scientists and Engineers (Graduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09-01"
-  date_end = "2020-09-01"
-  description = "Student evaluation: 8.0/9.0"  
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for M20 Introduction to Computer Programming with MATLAB (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09-01"
-  date_end = "2020-09-01"
-  description = "Student evaluation: 8.0/9.0" 
-
-[[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for Physics 5C Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics Physics 1C Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = "2018-06-01"
-  description = "Student evaluation: 8.0/9.0" 
-
-  [[item]]
-  #organization = ""
-  #organization_url = "https://www.edx.org"
-  title = "Teaching Assistant for Psychology 120B Sensation & Perception (Undergraduate)"
-  url = ""
-  #certificate_url = ""
-  date_start = "2017-09-01"
-  date_end = "2017-09-01"
-  description = "Student evaluation: 8.0/9.0" 
-
 +++
