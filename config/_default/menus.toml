@@ -25,9 +25,9 @@
 
 [[main]]
   name = "Awards"
-  url = "#awards"
+  url = "#accomplishments"
   weight = 51
-  
+
 [[main]]
   name = "Mentoring"
   url = "#advisoring"
