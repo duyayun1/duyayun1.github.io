@@ -1,6 +1,6 @@
 +++
 title = "Study on inspection of the initial rotor position of BLDC based on high-frequency signal injection"
-date = 2018-05-25T00:00:00
+date = 2014-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["D. Wang", "C. Zhou", "M. Zou", "J. Liao", "Yayun Du"]
@@ -27,7 +27,7 @@ publication_short = "In *ITEC Asia-Pacific*"
 # Summary. An optional shortened abstract.
 summary = "2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific)"
 
-# Digital Object Identifier (DOI)
+# Digital Object Identifier (DOI)/
 doi = ""
 
 # Is this a featured publication? (true/false)
@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["So"]
+# tags = ["So"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,7 +54,7 @@ projects = [""]
 slides = "example"
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6940758"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
@@ -71,7 +71,7 @@ slides = "example"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+ # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
