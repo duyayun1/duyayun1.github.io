@@ -30,7 +30,7 @@ date_format = "Jan 2006"
     * 2021      Chinese-American Engineers and Scientists Association of Southern California (CESASC) Scholarship ($1,000)
     * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division ($ 49,097.72/year)
     * 2016      Best Article Award from UCLA Graduate Division for sharing the story ``How I get to UCLA"
-"""
+  """
 [[item]]
   title = "UNDERGRADUATE "
   description = """
