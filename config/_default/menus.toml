@@ -24,8 +24,8 @@
   weight = 41
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
+  name = "Awards"
+  url = "#accomplishments"
   weight = 51
 
 [[main]]

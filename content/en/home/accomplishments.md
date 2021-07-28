@@ -8,7 +8,6 @@ weight = 51  # Order that this section will appear.
 title = "Awards"
 subtitle = ""
 
-
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -18,23 +17,14 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-# [[item]]
-#  #organization = "Coursera"
-#  organization_url = "https://www.coursera.org"
-#  title = "1st prize in Hunan Province | AIIA cup Artificial Intelligence tour Sophon station "
-#  url = ""
-#  #certificate_url = "https://www.coursera.org"
-#  date_start = "2019-09-17"
-#  date_end = ""
-#  description = ""
-
 [[item]]
-#  #organization = "Coursera"
-#  organization_url = ""
-  title = "GRADUATE:"
-#  url = ""
-# date_start = "2021-06-30"
-#  date_end = ""
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "个人赛 三等奖 | IBM 大型计算机挑战赛 "
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-01"
+  date_end = ""
   description = """
   * GRADUATE:
     * 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
