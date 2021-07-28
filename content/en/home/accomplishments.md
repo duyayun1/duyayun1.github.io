@@ -11,7 +11,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-# date_format = "Jan 2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -31,13 +31,13 @@ subtitle = ""
 [[item]]
 #  #organization = "Coursera"
 #  organization_url = ""
-    title = "GRADUATE:"
+  title = "GRADUATE:"
 #  url = ""
 # date_start = "2021-06-30"
 #  date_end = ""
-    description = """
-    * GRADUATE:
-        * 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
+  description = """
+  * GRADUATE:
+    * 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
         * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%)
         * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
         * 2015      Outstanding Leader Award from Harbin Institute of Technology (Top 2%)
