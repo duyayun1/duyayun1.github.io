@@ -33,6 +33,8 @@ date_format = "Jan 2006"
   """
 [[item]]
   title = "UNDERGRADUATE "
+  date_start = ""
+  date_end = ""
   description = """
   * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%, 8000 RMB/year)
   * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
