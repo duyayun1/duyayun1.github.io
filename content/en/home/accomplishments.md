@@ -31,18 +31,4 @@ date_format = "Jan 2006"
   * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division ($ 49,097.72/year)
   * 2016      Best Article Award from UCLA Graduate Division for sharing the story ``How I get to UCLA"
   """
-[[item]]
-  title = "UNDERGRADUATE "
-  date_start = ""
-  date_end = ""
-  description = """
-  * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%, 8000 RMB/year)
-  * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
-  * 2015      Honorable Mention} from COMAP for Mathematical Contest in Modeling (MCM)
-  * 2015      Outstanding Leader Award from Harbin Institute of Technology (Top 2%)
-  * 2014      Best-organized Volunteer Team Leader from Harbin Institute of Technology, Weihai
-  * 2013      First Prize in National English Competition for College Students (Top 0.5%)
-  * 2013      First Prize from Heilongjiang Provincial Education Department in Mathematics Competition for College Students (Top 8%)
-  * 2013      Most Creative Award from Department of Automotive Engineering for the design of pressure oil pump (1/10 teams)
-  """
 +++
