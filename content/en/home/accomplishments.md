@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 #  url = ""
 # date_start = "2021-06-30"
 #  date_end = ""
-  description = "
+  description = """
   * GRADUATE:
     * 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
         * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%)
@@ -44,5 +44,5 @@ date_format = "Jan 2006"
         * 2014      Best-organized Volunteer Team Leader from Harbin Institute of Technology, Weihai
         * 2013      First Prize in National English Competition for College Students (Top 1%)
         * 2013      Most Creative Award from Department of Automotive Engineering for the design of pressure oil pump (1/10 teams)
-"
+"""
 +++
