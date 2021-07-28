@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "Selected Awards"
 subtitle = ""
 
 # Date format
@@ -26,15 +26,15 @@ date_format = "Jan 2006"
 #  date_start = "2015-05-01"
 #  date_end = ""
   description = """
-    * 2021      MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
+    * 2021      MIT Civil and Environmental Engineering (CEE) Rising Stars Workshop travel grant
     * 2021      Chinese-American Engineers and Scientists Association of Southern California (CESASC) Scholarship ($1,000)
-    * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division ($ 49,097.72 per year)
+    * 2018-2021 Graduate Division Fellowship from UCLA Graduate Division ($ 49,097.72/year)
     * 2016      Best Article Award from UCLA Graduate Division for sharing the story ``How I get to UCLA"
 """
 [[item]]
   title = "UNDERGRADUATE: "
   description = """
-    * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%)
+    * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%, ￥8000/year)
     * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
     * 2015      Honorable Mention} from COMAP for Mathematical Contest in Modeling (MCM)
     * 2015      Outstanding Leader Award from Harbin Institute of Technology (Top 2%)
