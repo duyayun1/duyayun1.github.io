@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
 #  #organization = "DataCamp"
 #  #organization_url = "https://www.datacamp.com"
-  title = "GRADUATE: "
+  title = "GRADUATE "
 #  url = ""
 #  #certificate_url = "https://www.datacamp.com"
   date_start = ""
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
     * 2016      Best Article Award from UCLA Graduate Division for sharing the story ``How I get to UCLA"
 """
 [[item]]
-  title = "UNDERGRADUATE: "
+  title = "UNDERGRADUATE "
   description = """
     * 2012-2016 National Scholarship from Ministry of Education of the People's Republic of China (Top 1%, 8000 RMB/year)
     * 2015      Top Ten Students of Harbin Institute of Technology, Weihai (10/10000)
