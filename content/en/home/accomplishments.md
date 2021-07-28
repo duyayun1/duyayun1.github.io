@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "GRADUATE "
   url = ""
 #  #certificate_url = "https://www.datacamp.com"
-  date_start = ""
+  date_start = "2015-05-01"
   date_end = ""
   description = """
     * 2021 MIT Civil and Environmental Engineering (CEE) Rising Stars travel grant
