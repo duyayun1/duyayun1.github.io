@@ -56,24 +56,4 @@ date_format = "Jan 2006"
   Perform research on distributed vehicle system control on alternative fuel vehicles.
   * Advisor: Dafang Wang
   """
-
-   [[experience]]
-  title = "Engineering Assistant Intern"
-  company = "FAW Jiefang Automotive Co., Ltd."
-  company_url = ""
-  location = "Changchun, China"
-  date_start = "2016-01-16"
-  date_end = "2016-03-16"
-  description = """
-  """
-
-  [[experience]]
-  title = "Engineering Assistant Intern"
-  company = "Zhengzhou Nissan Motor Company"
-  company_url = ""
-  location = "Zhengzhou, China"
-  date_start = "2014-01-16"
-  date_end = "2014-03-16"
-  description = """
-  """
 +++
