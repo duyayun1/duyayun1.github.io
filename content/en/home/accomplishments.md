@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   url = ""
 #  #certificate_url = "https://www.datacamp.com"
   date_start = "2016-09-01"
-  date_end = "Now"
+  date_end = ""
   description = """
     * 2021      **MIT Civil and Environmental Engineering (CEE) Rising Stars** travel grant
     * 2021      **Chinese-American Engineers and Scientists** Association of Southern California (CESASC) Scholarship} ($1,000)
