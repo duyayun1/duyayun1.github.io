@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   url = ""
 #  #certificate_url = "https://www.datacamp.com"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "Now"
   description = """
     * 2021      **MIT Civil and Environmental Engineering (CEE) Rising Stars** travel grant
     * 2021      **Chinese-American Engineers and Scientists** Association of Southern California (CESASC) Scholarship} ($1,000)
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   url = ""
 #  #certificate_url = "https://www.datacamp.com"
   date_start = "2012-09-01"
-  date_end = ""
+  date_end = "2016-07-01"
   description = """
-    * 2012-2016 **National Scholarship** from Ministry of Education of the People's Republic of China (Top **1%**)
+    * 2012-2016 __National Scholarship__ from Ministry of Education of the People's Republic of China (Top **1%**)
     * 2015      **Top Ten Students** of Harbin Institute of Technology, Weihai (**10/10000**)
     * 2015      **Outstanding Leader Award** from Harbin Institute of Technology (Top **2%**)
     * 2015      **Honorable Mention** from COMAP for Mathematical Contest in Modeling (MCM)
