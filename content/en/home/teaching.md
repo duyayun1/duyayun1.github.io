@@ -94,9 +94,16 @@ url = ""
 date_start = "2019-03-01"
 date_end = "2019-09-01"
 description = """
-Karunesh Schanandani, Jacqueline Lam  
-"2D movement control of soft robots in low Reynolds number of fluid"
+
+
 """
+
+<div style="text-align: left;">
+Karunesh Schanandani, Jacqueline Lam
+</div>
+<div style="text-align: left;">
+"2D movement control of soft robots in low Reynolds number of fluid"
+</div>
 
 [[item]]
 #organization = ""
