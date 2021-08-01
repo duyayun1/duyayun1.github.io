@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2016-07-01"
   description = """
-    * 2012-2016 __National Scholarship__ from Ministry of Education of the People's Republic of China (Top **1%**)
+    * 2012-2016 **National Scholarship** from Ministry of Education of the People's Republic of China (Top **1%**)
     * 2015      **Top Ten Students** of Harbin Institute of Technology, Weihai (**10/10000**)
     * 2015      **Outstanding Leader Award** from Harbin Institute of Technology (Top **2%**)
     * 2015      **Honorable Mention** from COMAP for Mathematical Contest in Modeling (MCM)
