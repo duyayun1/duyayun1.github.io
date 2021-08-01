@@ -108,9 +108,44 @@ date_start = "2019-04-15"
 date_end = "2019-08-01"
 description = """
 
-<p align="left">
-Zihang Zhao, Visiting Undergraduate Student
+
+<div style="text-align: left;">
+{{Zihang Zhao, Visiting Undergraduate Student}}
+</div>
+<div style="text-align: left;">
+{{"Build a compact agriculture robot for weed control"}}
+</div>
+
+
+
+
+{{"Build a compact agriculture robot for weed control"}}
+
+
+
+{{"Build a compact agriculture robot for weed control"}}
+
+"""
++++
+
+
+
+
+{{Zihang Zhao, Visiting Undergraduate Student}}
+
+
+
+
 "Build a compact agriculture robot for weed control"
-</p>
+
+
+"""
++++
+
+
+
+"Build a compact agriculture robot for weed control"
+
+
 """
 +++
