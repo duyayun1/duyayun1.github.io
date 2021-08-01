@@ -68,6 +68,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """
+
     * 2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
                 ``Low-cost autonomous agricultural robot for weed control"
     * 2019-2021 Andrew Miller, Arthur Lovekin
@@ -87,8 +88,8 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = "2019-09-01"
   description = """
-    * 2019      Karunesh Schanandani, Jacqueline Lam
-                ``2D movement control of soft robots in low Reynolds number of fluid"
+    Karunesh Schanandani, Jacqueline Lam
+    ``2D movement control of soft robots in low Reynolds number of fluid"
   """
 
   [[item]]
@@ -100,7 +101,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-15"
   date_end = "2019-08-01"
   description = """
-    * 2019      Zihang Zhao, Visiting Undergraduate Student
-                ``Build a compact agriculture robot for weed control"
+    Zihang Zhao, Visiting Undergraduate Student
+    ``Build a compact agriculture robot for weed control"
   """
 +++
