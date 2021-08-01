@@ -76,31 +76,43 @@ date_start = "2019-04-01"
 date_end = ""
 description = """
 
-- `<div style="text-align: left;">`
-  2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
-  `</div>`
+<div style="text-align: left;">
+2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
+</div>
 
-  <div style="text-align: left;">
-  "Low-cost autonomous agricultural robot for weed control"
-  </div>
-- `<div style="text-align: left;">`
-  2019-2021 Andrew Miller, Arthur Lovekin
-  `</div>`
-  `<div style="text-align: left;"> `"Bacteria-inspired flagellated robot turn by buckling  soft tails"
-  `</div>`
-- `<div style="text-align: left;">`
-  2019          Keerthi Pradaa Balajee
-  `</div>`
-  `<div style="text-align: left;">
-  `"Bacteria-inspired soft robot capable of traveling through granular media"
-  `</div>`
-- `<div style="text-align: left;">`
-  2019      	  Taiki Nagata 
-  `</div>`
-  `<div style="text-align: left;">`
-  "Collaborative robotic drawing simulation in Vrep with constant force"`
-  </div>`
-  """
+<div style="text-align: left;">
+"Low-cost autonomous agricultural robot for weed control"
+</div>
+
+
+<div style="text-align: left;">
+2019-2021 Andrew Miller, Arthur Lovekin
+</div>
+
+<div style="text-align: left;">
+"Bacteria-inspired flagellated robot turn by buckling  soft tails"
+</div>
+
+
+
+<div style="text-align: left;">
+2019          Keerthi Pradaa Balajee
+</div>
+
+<div style="text-align: left;">  
+"Bacteria-inspired soft robot capable of traveling through granular media"
+</div>
+
+<div style="text-align: left;">
+2019      	  Taiki Nagata
+</div>
+
+
+<div style="text-align: left;">  
+"Collaborative robotic drawing simulation in Vrep with constant force"
+</div>
+
+"""
 
 [[item]]
 #organization = ""
@@ -130,7 +142,6 @@ url = ""
 date_start = "2019-04-15"
 date_end = "2019-08-01"
 description = """
-
 
 <div style="text-align: left;">
 Zihang Zhao, Visiting Undergraduate Student
