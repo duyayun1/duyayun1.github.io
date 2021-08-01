@@ -76,39 +76,26 @@ date_start = "2019-04-01"
 date_end = ""
 description = """
 
-<div style="text-align: left;">
-- 2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
-</div>
-
-<div style="text-align: left;">
+<div style="text-align: justify;">
+- 2020-2021 	Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang <br>
 "Low-cost autonomous agricultural robot for weed control"
 </div>
 
 
 <div style="text-align: left;">
-- 2019-2021 Andrew Miller, Arthur Lovekin
-</div>
-
-<div style="text-align: left;">
+- 2019-2021 	Andrew Miller, Arthur Lovekin <br>
 "Bacteria-inspired flagellated robot turn by buckling  soft tails"
 </div>
 
 
 
 <div style="text-align: left;">
-- 2019          Keerthi Pradaa Balajee
-</div>
-
-<div style="text-align: left;">  
+- 2019          Keerthi Pradaa Balajee <br>
 "Bacteria-inspired soft robot capable of traveling through granular media"
 </div>
 
 <div style="text-align: left;">
-- 2019      	  Taiki Nagata
-</div>
-
-
-<div style="text-align: left;">  
+- 2019      	  Taiki Nagata <br>
 "Collaborative robotic drawing simulation in Vrep with constant force"
 </div>
 
