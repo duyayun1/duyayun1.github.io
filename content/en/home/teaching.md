@@ -110,42 +110,8 @@ description = """
 
 
 <div style="text-align: left;">
-{{Zihang Zhao, Visiting Undergraduate Student}}
+Zihang Zhao, Visiting Undergraduate Student
 </div>
 <div style="text-align: left;">
-{{"Build a compact agriculture robot for weed control"}}
+"Build a compact agriculture robot for weed control"
 </div>
-
-
-
-
-{{"Build a compact agriculture robot for weed control"}}
-
-
-
-{{"Build a compact agriculture robot for weed control"}}
-
-"""
-+++
-
-
-
-
-{{Zihang Zhao, Visiting Undergraduate Student}}
-
-
-
-
-"Build a compact agriculture robot for weed control"
-
-
-"""
-+++
-
-
-
-"Build a compact agriculture robot for weed control"
-
-
-"""
-+++
