@@ -69,13 +69,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   - 2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
-              ``Low-cost autonomous agricultural robot for weed control"
+              "Low-cost autonomous agricultural robot for weed control"
   - 2019-2021 Andrew Miller, Arthur Lovekin
-              ``Bacteria-inspired flagellated robot turn by buckling  soft tails"
+              "Bacteria-inspired flagellated robot turn by buckling  soft tails"
   - 2019      Keerthi Pradaa Balajee
-              ``Bacteria-inspired soft robot capable of traveling through granular media"
+              "Bacteria-inspired soft robot capable of traveling through granular media"
   - 2019      Taiki Nagata
-              ``Collaborative robotic drawing simulation in Vrep with constant force"
+              "Collaborative robotic drawing simulation in Vrep with constant force"
   """ 
 
   [[item]]
@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """
     Karunesh Schanandani, Jacqueline Lam
-    ``2D movement control of soft robots in low Reynolds number of fluid"
+    "2D movement control of soft robots in low Reynolds number of fluid"
   """
 
   [[item]]
@@ -101,6 +101,6 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
   description = """
     Zihang Zhao, Visiting Undergraduate Student
-    ``Build a compact agriculture robot for weed control"
+    "Build a compact agriculture robot for weed control"
   """
 +++
