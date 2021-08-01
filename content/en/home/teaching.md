@@ -107,7 +107,10 @@ url = ""
 date_start = "2019-04-15"
 date_end = "2019-08-01"
 description = """
-Zihang Zhao, Visiting Undergraduate Student `<br>`
+
+<p align="left">
+Zihang Zhao, Visiting Undergraduate Student
 "Build a compact agriculture robot for weed control"
+</p>
 """
 +++
