@@ -76,16 +76,10 @@ date_start = "2019-04-01"
 date_end = ""
 description = """
 
--
-- 2019-2021 Andrew Miller, Arthur Lovekin
-  "Bacteria-inspired flagellated robot turn by buckling  soft tails"
-- 2019          Keerthi Pradaa Balajee"Bacteria-inspired soft robot capable of traveling through granular media"
-- 2019      	  Taiki Nagata
-  "Collaborative robotic drawing simulation in Vrep with constant force"
-  """
+- 
 
 <div style="text-align: left;">
-Karunesh Schanandani, Jacqueline Lam
+2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
 </div>
 <div style="text-align: left;">
 "Low-cost autonomous agricultural robot for weed control"
@@ -93,6 +87,12 @@ Karunesh Schanandani, Jacqueline Lam
 
 
 
+- 2019-2021 Andrew Miller, Arthur Lovekin
+  "Bacteria-inspired flagellated robot turn by buckling  soft tails"
+- 2019          Keerthi Pradaa Balajee"Bacteria-inspired soft robot capable of traveling through granular media"
+- 2019      	  Taiki Nagata
+  "Collaborative robotic drawing simulation in Vrep with constant force"
+  """
 
 [[item]]
 #organization = ""
