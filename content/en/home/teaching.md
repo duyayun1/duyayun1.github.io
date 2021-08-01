@@ -59,4 +59,48 @@ date_format = "Jan 2006"
   date_end = "2017-09-01"
   description = "Student evaluation: 8.0/9.0 (All TAs' average is ~7.5/9.0)" 
 
+  [[item]]
+  #organization = ""
+  #organization_url = "https://www.edx.org"
+  title = "UCLA Undergraduate Student Research Program (SRP) 199"
+  url = ""
+  #certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = """
+    * 2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
+                ``Low-cost autonomous agricultural robot for weed control"
+    * 2019-2021 Andrew Miller, Arthur Lovekin
+                ``Bacteria-inspired flagellated robot turn by buckling  soft tails"
+    * 2019      Keerthi Pradaa Balajee
+                ``Bacteria-inspired soft robot capable of traveling through granular media"
+    * 2019      Taiki Nagata
+                ``Collaborative robotic drawing simulation in Vrep with constant force"
+  """ 
+
+  [[item]]
+  #organization = ""
+  #organization_url = "https://www.edx.org"
+  title = "UCLA Undergraduate Student Research Program (SRP) 99"
+  url = ""
+  #certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = "2019-09-01"
+  description = """
+    * 2019      Karunesh Schanandani, Jacqueline Lam
+                ``2D movement control of soft robots in low Reynolds number of fluid"
+  """
+
+  [[item]]
+  #organization = ""
+  #organization_url = "https://www.edx.org"
+  title = "Undergraduate Summer Intern"
+  url = ""
+  #certificate_url = ""
+  date_start = "2019-04-15"
+  date_end = "2019-08-01"
+  description = """
+    * 2019      Zihang Zhao, Visiting Undergraduate Student
+                ``Build a compact agriculture robot for weed control"
+  """
 +++
