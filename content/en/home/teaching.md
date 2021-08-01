@@ -77,7 +77,7 @@ date_end = ""
 description = """
 
 <div style="text-align: left;">
-2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
+- 2020-2021 Wenjie Mo,  Chenda Duan, Yu Zhou, Guofeng Zhang, Darren Tsang
 </div>
 
 <div style="text-align: left;">
@@ -86,7 +86,7 @@ description = """
 
 
 <div style="text-align: left;">
-2019-2021 Andrew Miller, Arthur Lovekin
+- 2019-2021 Andrew Miller, Arthur Lovekin
 </div>
 
 <div style="text-align: left;">
@@ -96,7 +96,7 @@ description = """
 
 
 <div style="text-align: left;">
-2019          Keerthi Pradaa Balajee
+- 2019          Keerthi Pradaa Balajee
 </div>
 
 <div style="text-align: left;">  
@@ -104,7 +104,7 @@ description = """
 </div>
 
 <div style="text-align: left;">
-2019      	  Taiki Nagata
+- 2019      	  Taiki Nagata
 </div>
 
 
