@@ -4,7 +4,7 @@ date = 2020-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Yayun Du", "Zhaoxing Deng", "Zicheng Fang", "Yunbo Wang", "Taiki Nagata", "Karan Bansal", "Mohiuddin Quadir", "Mohammad Khalid Jawed"]
+authors = ["Yayun Du", "Z. Deng", "Z. Fang", "Y. Wang", "T. Nagata", "K. Bansal", "M. Quadir", "M. Khalid Jawed"]
 
 # Publication type.
 

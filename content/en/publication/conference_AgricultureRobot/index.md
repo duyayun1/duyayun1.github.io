@@ -32,8 +32,8 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 
-publication = "In *2021 International Conference on Intelligent Robots and Systems *"
-publication_short = "In *IROS*"
+publication = "In 2021 International Conference on Intelligent Robots and Systems"
+publication_short = "In IROS (2021)"
 
 # Abstract.
 
@@ -41,7 +41,7 @@ abstract = "Modern herbicide application in agricultural settings typically reli
 
 # Summary. An optional shortened abstract.
 
-summary = "2021 International Conference on Intelligent Robots and Systems."
+summary = "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 
 # Digital Object Identifier (DOI)/
 
