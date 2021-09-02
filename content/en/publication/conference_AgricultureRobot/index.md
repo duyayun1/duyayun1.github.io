@@ -112,7 +112,7 @@ url_video = "https://www.youtube.com/watch?v=yS8k4bOcFMk"
 
 # Caption (optional)
 
-# #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+#caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
 # Focal point (optional)
 
