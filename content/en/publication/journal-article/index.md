@@ -1,9 +1,10 @@
 +++
-title = "Study on inspection of the initial rotor position of BLDC based on high-frequency signal injection"
-date = 2014-05-01T00:00:00
+title = "An example journal article"
+date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["D. Wang", "C. Zhou", "M. Zou", "J. Liao", "Yayun Du"]
+authors = ["admin"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -15,19 +16,19 @@ authors = ["D. Wang", "C. Zhou", "M. Zou", "J. Liao", "Yayun Du"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific*"
-publication_short = "In *ITEC Asia-Pacific*"
+publication = "*Journal of Source Themes, 1*(1)"
+publication_short = ""
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
 
 # Summary. An optional shortened abstract.
-summary = "2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific)"
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
 
-# Digital Object Identifier (DOI)/
+# Digital Object Identifier (DOI)
 doi = ""
 
 # Is this a featured publication? (true/false)
@@ -35,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-# tags = ["So"]
+tags = ["Source Themes"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +44,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = [""]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -54,24 +55,24 @@ projects = [""]
 slides = "example"
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6940758"
-#url_code = "#"
-#url_dataset = "#"
-#url_project = ""
-#url_slides = ""
-#url_video = "#"
-#url_poster = "#"
-#url_source = "#"
+url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
- # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
