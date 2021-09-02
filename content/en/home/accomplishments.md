@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
+  - 2021      **Mentor of Honorable Mention Best Researcher** in Summer Undergraduate Researcher Program (SURP) 2021 at UCLA
   - 2021      **MIT Civil and Environmental Engineering (CEE) Rising Stars** travel grant
   - 2021      **Chinese-American Engineers and Scientists Association of Southern California (CESASC) Scholarship** ($1,000)
   - 2018-2021 **Graduate Division Fellowship** from UCLA Graduate Division ($ 49,097.72/year)
