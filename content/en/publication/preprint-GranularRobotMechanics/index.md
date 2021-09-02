@@ -110,7 +110,7 @@ url_source = ""
 
 # Caption (optional)
 
-caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+#caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
 
 # Focal point (optional)
 
