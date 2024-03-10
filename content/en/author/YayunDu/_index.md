@@ -77,11 +77,11 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Hello, welcome to Yayun(Daisy) Du's website. I am a postdoc at Querrey Simpson Institute for Bioelectronics at Northwestern University, supervised by Prof. John Rogers. 
-My future lab vision is safe, comfortable, and effficient human robot interaction. Born and raised in a Chinese rural village, I have been thinking about freeing labor with my parents being farmers. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design included), control, artificial intelligence, deep learning, reinforcement learning, and physics-based machine learning-assisted mechanics analysis. 
+My future lab vision is safe, comfortable, and efficient human robot interaction. Born and raised in a Chinese rural village, I have been thinking about freeing labor with my parents being farmers. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design included), control, artificial intelligence, deep learning, reinforcement learning, and physics-based machine learning-assisted mechanics analysis. 
 
 ---
 What I am doing Now?
 
 - In the tenure-track faculty job hunt.
 
-Update 03/09/2024
+Update 03/08/2024
