@@ -9,11 +9,11 @@ authors = ["YayunDu"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Student in Robotics and Control, Mechanics"
+role = "Postdoctoral Fellow at Rogers Group at Northwestern"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Structures-Computer Interaction Lab, UCLA", url = "https://structures.computer/" } ]
+organizations = [ { name = "Rogers Research Group", url = "https://rogersgroup.northwestern.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Where there is a will, there is a way."
@@ -25,10 +25,7 @@ email = "duyayun1hit@yahoo.com.hk"
 interests = [
   "Robot design and control",
   "Artificial intelligence",
-  "Deep learning",
-  "Reinforcement learning",
-  "Computer vision",
-  "Mechanics"
+  "Machine learning"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -38,7 +35,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 #[[education.courses]]
 #  course = "University of California, Los Angeles"
-  #institution = "M.S. in Systems and Control, Sep 2016 ~ Mar 2018"
+  #institution = "Ph.D. in Systems and Control, Mar 2018 ~ Sep 2022"
   #year = ""
 
 #[[education.courses]]
@@ -79,16 +76,12 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hello, welcome to Yayun(Daisy) Du's website. I am a Ph.D. student in Robotics and Control with a minor in solid mechanics at UCLA. 
-Born and raised in a rural village in China, I have been thinking about freeing labor with my parents being farmers. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design included), control, artificial intelligence, deep learning, reinforcement learning, and physics-based machine learning-assisted mechanics analysis.
-With extraordinary leadership, I have been leading several projects since I started my Ph.D. In my doctoral research, I have been working on several projects and collaborating with multiple groups. First, I designed a simple but functional robot with soft straight tails to swim in granular media, and experimental data showed reasonable quantitative agreement with numerical simulation results. Then, using the same robot, I studied its locomotion in fluids and enabled the robot to follow any prescribed 2D trajectory. Meanwhile, I’ve built a low-cost agri-robot with autonomous recharge, navigation, and weed detection (with deep learning) in flax fields, and I have been connecting with plant science researchers from NDSU to test our robot. Based on the agri-robot, I gathered preliminary data for a successful $450k federal grant from the US Dept. of Agriculture and also prepared 33% of an NSF proposal with four PIs ($1.2M) that received ratings of 3 Very Good and 1 Fair (eventually declined). I also collaborated with another NDSU painting group on autonomous robotic painting. 
+Hello, welcome to Yayun(Daisy) Du's website. I am a postdoc at Querrey Simpson Institute for Bioelectronics at Northwestern University, supervised by Prof. John Rogers. 
+My future lab vision is safe, comfortable, and effficient human robot interaction. Born and raised in a Chinese rural village, I have been thinking about freeing labor with my parents being farmers. To this end, I chose robotics design and control as my research subject. As an interdisciplinary field, my robotic research involves system design (rigid/flexible PCB board design included), control, artificial intelligence, deep learning, reinforcement learning, and physics-based machine learning-assisted mechanics analysis. 
 
 ---
 What I am doing Now?
 
-- Finish developing algorithms that allow the robot to locate itself in the fields without GPS using visual odometry in conjunction with IMU, LiDAR, and wheel encoders;
-- Make the self-recharging function of the agricultural robot more robust;
-- Polish the adaptive weight distribution of the bacteria-inspired robot to verify the bacterium's ability to turn by flagella buckling and add cameras to make the robot fully autonomous to follow any 3D trajectory and use reinforcement learning to study optimal motion planning among multi-agent (multi-robots).
-- In the postdoc position and tenure-track faculty job hunt.
+- In the tenure-track faculty job hunt.
 
 Update 03/18/2021
